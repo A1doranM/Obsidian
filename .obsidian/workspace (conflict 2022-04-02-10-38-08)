@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "3c132d1c0550f674",
+    "type": "split",
+    "children": [
+      {
+        "id": "09534ceb086f4111",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "English/Times.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfdcd644f7c07297",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "186fd99302209cb8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "a02afd2b1c36ccfb",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d589f28cc0fa5aeb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3be6f9a1802c53d2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "English/Times.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "09534ceb086f4111",
+  "lastOpenFiles": [
+    "English/Times.md",
+    "Software Development/Data Structures/Graphs/Topological Sort.md",
+    "Images/Pasted image 20220328194102.png",
+    "Images/Pasted image 20220328181349.png",
+    "Pasted image 20220328193329.png",
+    "Software Development/Data Structures/Graphs/Dijkstra`s Algorithm.md",
+    "Images/Pasted image 20220327132927.png",
+    "Software Development/Data Structures/Graphs/Depth First Search.md",
+    "Software Development/Data Structures/Graphs/BFS vs DFS.md",
+    "Software Development/Data Structures/Graphs/Breadth First Search.md"
+  ]
+}

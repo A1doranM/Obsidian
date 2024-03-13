@@ -1,0 +1,1 @@
+ Decapitate - If you decapitate an animal, you remove the head of it.

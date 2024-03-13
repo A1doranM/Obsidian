@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "3c132d1c0550f674",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eedce47c19aa752",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History/Bushwacker.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec4af211ddc865f9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "92dc8fee9cb07738",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ffc89aba2236d348",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "6ebe72e481839a60",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "26201400eaa3b01d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "History/Bushwacker.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5eedce47c19aa752",
+  "lastOpenFiles": [
+    "Software Development/Common/Software-Architect-Roadmap/Software Architector Roadmap Theory.md",
+    "Software Development/Data Structures/Graphs/Bellman-Ford Algorithm.md",
+    "Software Development/Data Structures/Graphs/Dijkstra`s Algorithm.md",
+    "Software Development/Data Structures/Graphs/Depth First Search.md",
+    "Software Development/Data Structures/Graphs/Breadth First Search.md",
+    "Software Development/Data Structures/Graphs/Disjoint Set, Union Find, Cycle Detection.md",
+    "Software Development/Data Structures/Graphs/Incidence Matrix.md",
+    "Software Development/Data Structures/Graphs/Kruskals Alg(minimum spaning tree).md",
+    "Software Development/Data Structures/Graphs/Prims Alg(minimum spanning tree).md",
+    "Images/Pasted image 20220407163826.png"
+  ]
+}

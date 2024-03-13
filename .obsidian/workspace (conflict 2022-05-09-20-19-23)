@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "3c132d1c0550f674",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eedce47c19aa752",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History/Bushwacker.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73f5e07338223402",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0ee2366083435549",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "094bd8b584054e8a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "44a91a43635a4c5d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7264dd28bceafa09",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "History/Bushwacker.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5eedce47c19aa752",
+  "lastOpenFiles": [
+    "History/Bushwacker.md",
+    "Software Development/Data Structures/Graphs/Disjoint Set, Union Find, Cycle Detection.md",
+    "Images/Pasted image 20220407163656.png",
+    "Software Development/Data Structures/Graphs/Incidence Matrix.md",
+    "Images/Pasted image 20220405173558.png",
+    "Software Development/Data Structures/Graphs/Articulation points, Tarjan Algorithm.md",
+    "Images/Pasted image 20220329120406.png",
+    "Software Development/Data Structures/Graphs/Topological Sort.md",
+    "English/Times.md",
+    "Images/Pasted image 20220328194102.png"
+  ]
+}

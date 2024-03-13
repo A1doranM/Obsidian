@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "3c132d1c0550f674",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eedce47c19aa752",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History/Начало Греции.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b466e2c80de5d51f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "715ef3e979645450",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "44df2945441c0da6",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "1339524000837d0d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d5ae011a1bc28f24",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "History/Начало Греции.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5eedce47c19aa752",
+  "lastOpenFiles": [
+    "History/Китай до Китая.md",
+    "Life/Созависимость.md",
+    "Life/Базовое доверие и психологическое рождение.md",
+    "Созависимостьи.md",
+    "Obsidian and Markdown/Obsidian and Markdown.md",
+    "Life/Гипотеза культивации.md",
+    "History/Начало Греции.md",
+    "History/Bushwacker.md",
+    "100 💯💯.md",
+    "Каждый день.md"
+  ]
+}

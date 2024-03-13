@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "3c132d1c0550f674",
+    "type": "split",
+    "children": [
+      {
+        "id": "2398ee660fa072f5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History/Bushwacker.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b22f50ec9898d9f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "aa59dd62ef0c3f3a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "cdfa953715510dd9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "29926898621d3f12",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5f0d47c1e033f96f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "History/Bushwacker.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "2398ee660fa072f5",
+  "lastOpenFiles": [
+    "History/Bushwacker.md",
+    "English/Предлоги.md",
+    "English/Times.md",
+    "Software Development/Common/Система счисления.md",
+    "Images/Pasted image 20220223164635.png",
+    "Images/Pasted image 20220223165100.png",
+    "How to Learn/Переобучение.md",
+    "Каждый день.md",
+    "Software Development/Common/Архитектурный подход к программированию/Связывание.md",
+    "Software Development/Common/Модули слои и структура проекта/Пример хорошего разбиения по уровням абстракции.md"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "3c132d1c0550f674",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eedce47c19aa752",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History/Bushwacker.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5caf280c1137742",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "69119f01ada1e3dd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "29a2472ae1eada78",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#ОбщаяИстория",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "3516b4c1c72c447d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "420f2fad7776e125",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "History/Bushwacker.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5eedce47c19aa752",
+  "lastOpenFiles": [
+    "History/Bushwacker.md",
+    "Software Development/Data Structures/Graphs/Bellman-Ford Algorithm.md",
+    "Software Development/Data Structures/Graphs/Prims Alg(minimum spanning tree).md",
+    "Software Development/Data Structures/Graphs/Kruskals Alg(minimum spaning tree).md",
+    "Software Development/Data Structures/Graphs/Incidence Matrix.md",
+    "Software Development/Data Structures/Graphs/Disjoint Set, Union Find, Cycle Detection.md",
+    "Images/Pasted image 20220407163656.png",
+    "Images/Pasted image 20220405173558.png",
+    "Software Development/Data Structures/Graphs/Articulation points, Tarjan Algorithm.md",
+    "Images/Pasted image 20220329120406.png"
+  ]
+}

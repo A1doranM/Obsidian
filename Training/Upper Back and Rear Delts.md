@@ -1,0 +1,6 @@
+1. Bent over barbell row: 2x7.5kg,
+2. Dumbbell pullover: 17kg, 
+3. Wide grip lat pulldown: 8,  
+4. Dumbbell rear delts fly: 2х5kg, 
+5. Cable face pull: 35, 
+6. Dumbbell shrug: 2x16kg, 

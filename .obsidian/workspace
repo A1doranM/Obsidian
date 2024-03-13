@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "3c132d1c0550f674",
+    "type": "split",
+    "children": [
+      {
+        "id": "17a13fbadbd7fd27",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Psychology/Драматический треугольник.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14376d045f4de28b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7c635c6a03ca14ae",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "cb9ccd23544b3afd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e03ebf7a47e6f43b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9e8fabed6609d702",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Psychology/Драматический треугольник.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "17a13fbadbd7fd27",
+  "lastOpenFiles": [
+    "Psychology/Постоянство объекта.md",
+    "Psychology/Драматический треугольник.md",
+    "Psychology/Созависимость.md",
+    "Созависимостьи.md",
+    "Psychology/Базовое доверие и психологическое рождение.md",
+    "100 💯💯.md",
+    "Psychology/Гипотеза культивации.md",
+    "History/Китай до Китая.md",
+    "Life/Харизма.md",
+    "Life/Ловушка мнимой самоуверенности.md"
+  ]
+}

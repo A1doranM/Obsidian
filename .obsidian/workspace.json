@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "3c132d1c0550f674",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac194a3a669b987b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe7d7a57f7cf72d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Psychology/Созависимость.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f3885c1387d460e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8f0f1621b90210e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ece079d61b903c7b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4640abe52d071f7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8382762a1045320",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "right": {
+    "id": "6b6b06f3a9f01279",
+    "type": "split",
+    "children": [
+      {
+        "id": "81e3b93f8f78bdc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "68d1a99401b16e5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Psychology/Созависимость.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f321b01d64922201",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "fe7d7a57f7cf72d2",
+  "lastOpenFiles": [
+    "Psychology/Постоянство объекта.md",
+    "Psychology/Ошибка невозвратных затрат.md",
+    "Psychology/Отрицание.md",
+    "Psychology/Нерешённые проблемы прошлого.md",
+    "Psychology/Ловушка мнимой самоуверенности.md",
+    "Psychology/Жертвы фиксированного мышления и нейропластичность..md",
+    "Psychology/Драматический треугольник.md",
+    "Psychology/Гипотеза культивации.md",
+    "Psychology/Взросление.md",
+    "Psychology/Базовое доверие и психологическое рождение.md",
+    "Training/Arms and Abs.md",
+    "100 💯💯.md",
+    "History/Ацтеки.md",
+    "Images/Pasted image 20240130183302.png",
+    "Images/Pasted image 20240125164448.png",
+    "Images/Pasted image 20240125165648.png",
+    "Images/Pasted image 20240125165408.png",
+    "Images/Pasted image 20240125164845.png",
+    "Images/Pasted image 20240125164523.png",
+    "Images/Pasted image 20240125163038.png",
+    "History/Классический период 500 - 1000 г. н.э..md",
+    "History/Цивилизации бронзового века.md",
+    "Poker/Все возможные стартовые руки.md",
+    "History/Цивилизация Этрусков.md",
+    "History/Цивилизационный процесс в пост классический период.md",
+    "History/Bushwacker.md",
+    "Poker/Вступление в игру.md",
+    "Poker/Колл и 3-бет после рейза.md",
+    "Images/image.png",
+    "Poker/Выгода от пота.md",
+    "Poker/Выбор самого прибыльного сайзинга в покере.md",
+    "Poker/Шансы банка.md",
+    "Poker/Фолд еквити и еквити.md",
+    "Poker/Расчет прибыльность блефа.md",
+    "Images/Pasted image 20231102191605.png",
+    "Images/Pasted image 20231102191522.png",
+    "Молекулярная Биология",
+    "Pocker/Untitled",
+    "Pocker/images",
+    "Poker",
+    "Philosophy"
+  ]
+}

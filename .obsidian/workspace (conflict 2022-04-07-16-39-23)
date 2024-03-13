@@ -1,0 +1,88 @@
+{
+  "main": {
+    "id": "3c132d1c0550f674",
+    "type": "split",
+    "children": [
+      {
+        "id": "484e50cdd36ccda4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History/Bushwacker.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a2adfad2ef6b9601",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d7ef39a3f475ec28",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "85719407fc69249a",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "701cd1cd158c688b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "6cf5441131059e32",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "History/Bushwacker.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "484e50cdd36ccda4",
+  "lastOpenFiles": [
+    "History/Bushwacker.md",
+    "Images/Pasted image 20220405173558.png",
+    "Software Development/Data Structures/Graphs/Articulation points, Tarjan Algorithm.md",
+    "Images/Pasted image 20220329120406.png",
+    "Software Development/Data Structures/Graphs/Topological Sort.md",
+    "English/Times.md",
+    "Images/Pasted image 20220328194102.png",
+    "Images/Pasted image 20220328181349.png",
+    "Pasted image 20220328193329.png",
+    "Software Development/Data Structures/Graphs/Dijkstra`s Algorithm.md"
+  ]
+}
