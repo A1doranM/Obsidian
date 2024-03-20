@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "632f768e16918a70",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +124,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "632f768e16918a70",
+  "active": "fe7d7a57f7cf72d2",
   "lastOpenFiles": [
     "Psychology/Биология поведения человека/1. Эволюция поведения.md",
     "Psychology/Биология поведения человека/2. Молекулярная генетика.md",
