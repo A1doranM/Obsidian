@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "174aa3e3d037f355",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +124,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "174aa3e3d037f355",
+  "active": "fe7d7a57f7cf72d2",
   "lastOpenFiles": [
     "Psychology/Биология поведения человека/3. Генетика поведения.md~",
     "Psychology/Базовое доверие и психологическое рождение.md",
