@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "174aa3e3d037f355",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,8 +135,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fe7d7a57f7cf72d2",
+  "active": "174aa3e3d037f355",
   "lastOpenFiles": [
+    "Psychology/Биология поведения человека/3. Генетика поведения.md~",
     "Psychology/Базовое доверие и психологическое рождение.md",
     "Молекулярная Биология/Основы молекулярной биологии.md",
     "Молекулярная Биология/Основы молекулярной биологии (conflict 2023-09-29-18-00-18).md",
@@ -162,7 +174,6 @@
     "Images/Pasted image 20240125164523.png",
     "Images/Pasted image 20240125163038.png",
     "Poker/Все возможные стартовые руки.md",
-    "History/Цивилизация Этрусков.md",
     "Images/image.png",
     "Images/Pasted image 20231102191605.png",
     "Images/Pasted image 20231102191522.png",
