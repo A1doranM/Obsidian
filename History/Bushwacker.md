@@ -13,7 +13,9 @@
 
     Тайвань https://youtu.be/YXdTPHnc_jI?si=cr46xsCKargmLro7 #Тайвань 
 
+
 2. 4000-e г. до РХ. https://youtu.be/M1xwsNqF8ks #Викинги
+
 
 4. 3000-е г. до РХ. https://youtu.be/7o2Pe7o9QOo #Индия
 
@@ -23,6 +25,7 @@
 
     https://youtu.be/VqDlWssSP6w #Египет
     
+
 3. 2000-е г. до РХ. (https://youtu.be/m5o1XrFdB8k)  #ОбщаяИстория 
 
     https://youtu.be/zOKXKSU_YwY #ОбщаяИстория, #Кочевники.
@@ -35,6 +38,8 @@
     https://youtu.be/KmuhAy_bpjo #Хетты [[Хетты]]
 
     https://youtu.be/rhpj_69Qezg #Китай
+
+
 5. 1750 г. до РХ. https://youtu.be/4himGneaZsw #Индия [[Ведический мир древней Индии]]
 
     https://youtu.be/RHr9t7hDrag #Асирия, #Вавилон [[Асирия и Новый Вавилон]]
@@ -42,8 +47,10 @@
     1600 г. до РХ. https://youtu.be/IRvS4wrsMYU #Египет [[Древний Египет. Возвышение нового царства.]]
 
     1500 г. до РХ. https://youtu.be/a23Az24sLG0 #Египет 
-    
-5. 1300 г. до РХ. https://youtu.be/Zo5mTJb2ZHc #Италия, #Этруски
+
+
+6. 1300 г. до РХ. https://youtu.be/Zo5mTJb2ZHc #Италия, #Этруски
+
 
 7. 1000 г. до РХ. https://youtu.be/PL59Kmneimk #Культура, #ОбщаяИстория
 
@@ -52,8 +59,9 @@
     https://youtu.be/UBTdPo5OF74 #ЮжнаяКорея
 
     https://youtu.be/ipaxCwtLq1w #Ацтеки 
+
     
-6. VIII - V в до РХ. https://youtu.be/hZzA1hAIc2c #Греция  
+8. VIII - V в до РХ. https://youtu.be/hZzA1hAIc2c #Греция  
 
     VII в до РХ. https://youtu.be/wEzP7qlXNvw #Персия
 
@@ -62,12 +70,14 @@
     V вв до н.э. https://youtu.be/S4DqFjWyvpI #Иудея
 
     https://youtu.be/kePVo1PtkUc #Китай 
+
     
-7. 300-e г. до РХ. https://youtu.be/h0yMPGxJlpw #Греция 
+9. 300-e г. до РХ. https://youtu.be/h0yMPGxJlpw #Греция 
 
     https://youtu.be/LCUTyeevlw0 #Гонконг, #Китай 
+
     
-8. 200-e г. до РХ. https://youtu.be/2MFX6m-XKKE #Греция, #Рим
+10. 200-e г. до РХ. https://youtu.be/2MFX6m-XKKE #Греция, #Рим
 
     https://youtu.be/B37HoSWCTrs #Китай 
 9. 100-е г. до РХ. https://youtu.be/ON08uK42tYE #Культура, #Христианство, #ОбщаяИстория
@@ -213,4 +223,3 @@
       https://youtu.be/HoADfUpm3GU #Сирия
 
       https://youtu.be/mAgKw__y88I #Израиль #ОбщаяИстрия #Сионизм
-    
