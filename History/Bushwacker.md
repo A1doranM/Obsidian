@@ -177,7 +177,8 @@
 
       https://youtu.be/BNkYi4aA0PE?si=UtfkIi5ci9BbSVsw #Тайвань #Китай 
 
-16. XVIII - XIX вв н.э. https://youtu.be/92HGyoRrGdU #Америка 
+
+23. XVIII - XIX вв н.э. https://youtu.be/92HGyoRrGdU #Америка 
 
      https://youtu.be/CQDd2sbMqBs #Испания
 
@@ -191,7 +192,8 @@
 
      https://youtu.be/Rv8bSKUS0Ro #Япония 
 
-17. XIX вв н.э https://youtu.be/hvKXZugTQLw #Сингапур
+
+24. XIX вв н.э https://youtu.be/hvKXZugTQLw #Сингапур
 
      https://youtu.be/TMZ1AxijeNE #Америка 
      
@@ -202,8 +204,9 @@
      https://youtu.be/FK1o1XX7ZI8 #Китай 
 
      https://youtu.be/AFyaeNUjPy0 #Китай 
+
      
-18. XX в н.э. https://youtu.be/sdKVcda555U #Китай 
+25. XX в н.э. https://youtu.be/sdKVcda555U #Китай 
 
       https://youtu.be/invu4id1Kec #Китай 
 
