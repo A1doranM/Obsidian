@@ -80,18 +80,30 @@
 10. 200-e г. до РХ. https://youtu.be/2MFX6m-XKKE #Греция, #Рим
 
     https://youtu.be/B37HoSWCTrs #Китай 
-9. 100-е г. до РХ. https://youtu.be/ON08uK42tYE #Культура, #Христианство, #ОбщаяИстория
+
+
+11. 100-е г. до РХ. https://youtu.be/ON08uK42tYE #Культура, #Христианство, #ОбщаяИстория
 
     https://youtu.be/yfXjQIH-WaU #Китай
-10. I в до н.э. https://youtu.be/CfeGd_KC6sI #Ислам 
 
-12. I вв н.э. https://youtu.be/jQtj8uANmIE #Англия
+
+12. I в до н.э. https://youtu.be/CfeGd_KC6sI #Ислам 
+
+
+
+13. I вв н.э. https://youtu.be/jQtj8uANmIE #Англия
+
+
 
 14. II вв н.э. https://youtu.be/51WteFAPC0Y #Корея
 
-16. III вв н.э. https://youtu.be/HvVFxUtNEDQ #Китай 
 
-18. IV - VII вв н.э. https://youtu.be/Id2R9S32yEA #РоманоГерманскийМир, #ОбщаяИстория 
+
+15. III вв н.э. https://youtu.be/HvVFxUtNEDQ #Китай 
+
+
+
+16. IV - VII вв н.э. https://youtu.be/Id2R9S32yEA #РоманоГерманскийМир, #ОбщаяИстория 
 
      https://youtu.be/od0gtn_CaXE #Византия, #ОбщаяИстория 
 
@@ -102,19 +114,24 @@
      VII вв н.э. https://youtu.be/TJcSkVw2lcQ #Китай 
 
      https://youtu.be/QzROaHXCIGo #Венеция
-13. VIII - IX вв до н.э. https://youtu.be/ZyJ5P_FSvpI #Каролинги
 
-15. VIII - X вв н.э. https://youtu.be/9rQy2BORj5o #Викинги 
+
+17. VIII - IX вв до н.э. https://youtu.be/ZyJ5P_FSvpI #Каролинги
+
+
+18. VIII - X вв н.э. https://youtu.be/9rQy2BORj5o #Викинги 
 
      https://youtu.be/yJ4hGmt_fKQ #Славяне, #КиевскаяРусь
-     
-15. X - XIII вв н.э. https://youtu.be/SzZteZjwpnQ #СвященнаяРимскаяИмперия
+    
+ 
+19. X - XIII вв н.э. https://youtu.be/SzZteZjwpnQ #СвященнаяРимскаяИмперия
 
       https://youtu.be/Vt-40ccqun4 #Франция 
 
       https://youtu.be/Z1thyqV_AkQ #Франция 
-      
-14. XI - XIV вв до н.ж. https://youtu.be/PC_af0gby3E #Монголы
+    
+  
+20. XI - XIV вв до н.ж. https://youtu.be/PC_af0gby3E #Монголы
 
       https://youtu.be/iaaDgR1Scec #Монголы
 
@@ -128,9 +145,11 @@
 
       https://youtu.be/2ixyOG2PKc8 #Англия 
 
-15. XIII - XIV вв н.э. https://youtu.be/E9g63xFkbuo #КиевскаяРусь 
 
-16. XIV - XVI вв. н.э. https://youtu.be/s9lMgkgF_IQ #Италия
+21. XIII - XIV вв н.э. https://youtu.be/E9g63xFkbuo #КиевскаяРусь 
+
+
+22. XIV - XVI вв. н.э. https://youtu.be/s9lMgkgF_IQ #Италия
 
       https://youtu.be/Fq4vxc6FafU #Италия 
 
