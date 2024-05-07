@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ac194a3a669b987b",
+        "id": "58fdc935fce151ff",
         "type": "tabs",
         "children": [
           {
-            "id": "fe7d7a57f7cf72d2",
+            "id": "47abf69a2b63cc67",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -124,18 +124,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fe7d7a57f7cf72d2",
+  "active": "47abf69a2b63cc67",
   "lastOpenFiles": [
-    "Pasted image 20240507123058.png",
-    "Pasted image 20240507122853.png",
-    "Pasted image 20240507122559.png",
-    "Pasted image 20240507121740.png",
+    "Images/Pasted image 20240507121341.png",
     "Psychology/Биология поведения человека/6. Введение в нейронауки.md",
-    "Pasted image 20240507122503.png",
-    "Pasted image 20240507121936.png",
-    "Pasted image 20240507121451.png",
-    "Pasted image 20240507121411.png",
-    "Pasted image 20240507121341.png",
+    "Images/Pasted image 20240507123058.png",
+    "Images/Pasted image 20240507122853.png",
+    "Images/Pasted image 20240507122559.png",
+    "Pasted image 20240507121740.png",
+    "Images/Pasted image 20240507122503.png",
+    "Images/Pasted image 20240507121936.png",
+    "Images/Pasted image 20240507121451.png",
+    "Images/Pasted image 20240507121411.png",
     "Psychology/Биология поведения человека/0. Биология поведения человека.md",
     "Psychology/Биология поведения человека/5. Этология.md",
     "Psychology/Биология поведения человека/4. Распознавание родственников.md",
@@ -166,7 +166,6 @@
     "Psychology/Гипотеза культивации.md",
     "Psychology/Взросление.md",
     "Images/Pasted image 20240130183302.png",
-    "Images/Pasted image 20240125164448.png",
     "Молекулярная Биология",
     "Pocker/Untitled",
     "Pocker/images",
