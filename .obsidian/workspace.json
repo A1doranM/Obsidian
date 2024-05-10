@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "58fdc935fce151ff",
+        "id": "1ce4d305a9dfc0b3",
         "type": "tabs",
         "children": [
           {
-            "id": "47abf69a2b63cc67",
+            "id": "67dbc0aad079a390",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 408.5
+    "width": 336.5
   },
   "right": {
     "id": "6b6b06f3a9f01279",
@@ -124,12 +124,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "47abf69a2b63cc67",
+  "active": "67dbc0aad079a390",
   "lastOpenFiles": [
+    "Pasted image 20240510174552.png",
+    "Pasted image 20240510173710.png",
+    "Psychology/Биология поведения человека/7. Эндокринология.md",
+    "Pasted image 20240510174248.png",
+    "Pasted image 20240510174231.png",
     "Psychology/Биология поведения человека/6. Введение в нейронауки.md",
     "Psychology/Биология поведения человека/5. Этология.md",
     "Psychology/Биология поведения человека/4. Распознавание родственников.md",
-    "Psychology/Биология поведения человека/7. Эндокринология.md",
     "Psychology/Биология поведения человека/0. Биология поведения человека.md",
     "Images/Pasted image 20240507121341.png",
     "Images/Pasted image 20240507123058.png",
@@ -138,8 +142,6 @@
     "Pasted image 20240507121740.png",
     "Images/Pasted image 20240507122503.png",
     "Images/Pasted image 20240507121936.png",
-    "Images/Pasted image 20240507121451.png",
-    "Images/Pasted image 20240507121411.png",
     "Psychology/Биология поведения человека/3. Генетика поведения.md",
     "Psychology/Биология поведения человека/3. Генетика поведения.md~",
     "Psychology/Базовое доверие и психологическое рождение.md",
@@ -165,8 +167,6 @@
     "Psychology/Жертвы фиксированного мышления и нейропластичность..md",
     "Psychology/Драматический треугольник.md",
     "Psychology/Гипотеза культивации.md",
-    "Psychology/Взросление.md",
-    "Images/Pasted image 20240130183302.png",
     "Молекулярная Биология",
     "Pocker/Untitled",
     "Pocker/images",
